@@ -241,3 +241,20 @@ https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/ts-eu-w1-n2/pl
 https://mss.ayakkabiparti.lol/tarihtv/index.m3u8
 #EXTINF:-1 tvg-name="Love Nature" tvg-id="" tvg-logo="https://imgs.search.brave.com/ZySlRQ1Qe-akzY3F8XnduCqrO3twE1jp90iHc9z1j-o/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly91cy4x/MjNyZi5jb20vNDUw/d20vYXJpbWFuZ2dh/bGEvYXJpbWFuZ2dh/bGEyMDA1L2FyaW1h/bmdnYWxhMjAwNTAw/MDE3LzE0NjcyMzkw/My1uYXR1cmUtbG92/ZS1sb2dvLWdyZWVu/LWxlYWYtZGVzaWdu/LmpwZz92ZXI9Ng" group-title="Belgesel",Love Nature
 https://mss.ayakkabiparti.lol/lovenature/index.m3u8
+
+########################Alwan###############
+
+#EXTINF:-1 tvg-name="Alwan", group-title="Alwan",
+http://mag.jee-ott.xyz:80/play/live.php?mac=A0:BB:3E:08:50:20&stream=1859098&extension=ts&play_token=fYlGTsVsz2
+#EXTINF:-1 tvg-name="Alwan2", group-title="Alwan",
+http://mag.jee-ott.xyz:80/play/live.php?mac=A0:BB:3E:08:50:20&stream=1859097&extension=ts&play_token=rst1gmWrvA
+#EXTINF:-1 tvg-name="Alwan3", group-title="Alwan",
+http://mag.jee-ott.xyz:80/play/live.php?mac=A0:BB:3E:08:50:20&stream=1859096&extension=ts&play_token=ZNQXOoAiL0
+#EXTINF:-1 tvg-name="Alwan4", group-title="Alwan",
+http://mag.jee-ott.xyz:80/play/live.php?mac=A0:BB:3E:08:50:20&stream=1859095&extension=ts&play_token=ocgDhbbGwX
+#EXTINF:-1 tvg-name="Alwan5", group-title="Alwan",
+http://mag.jee-ott.xyz:80/play/live.php?mac=A0:BB:3E:08:50:20&stream=1859094&extension=ts&play_token=5tocwvUazq
+#EXTINF:-1 tvg-name="Alwan6", group-title="Alwan",
+http://mag.jee-ott.xyz:80/play/live.php?mac=A0:BB:3E:08:50:20&stream=1859092&extension=ts&play_token=fSfgfqe7G4
+#EXTINF:-1 tvg-name="Alwan7", group-title="Alwan",
+http://mag.jee-ott.xyz:80/play/live.php?mac=A0:BB:3E:08:50:20&stream=1859075&extension=ts&play_token=xaM2OjtvYM
